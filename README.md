@@ -1,4 +1,4 @@
-<img align="right" height="180px" src="" alt="image" />
+<img align="right" height="320px" width="320px" src="https://github.com/Satyam3976/satyam3976/blob/master/Resources/programmer.jpg" alt="coder" />
 
 <p align="left">
 
@@ -18,6 +18,13 @@ A passionate Full Stack Developer from India<br>
 💻<a target="_blank" href="http://csatyam.me/"> Check out my portfolio</a>
   <p>
 <br>
+ 
+ **Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
 
@@ -48,6 +55,9 @@ A passionate Full Stack Developer from India<br>
   <img src="https://profile-counter.glitch.me/Satyam3976/count.svg" />
 </p>
 
+<p align="center">
+<a href="https://linkedin.com/in/satyam3976" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="satyam3976" height="30" width="30" /></a>
+</p> 
 
 
 
