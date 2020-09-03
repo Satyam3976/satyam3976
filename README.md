@@ -1,4 +1,60 @@
-<h1 align="center">Hi 👋, I'm Satyam Chaudhary</h1>
+<img align="right" height="180px" src="" alt="image" />
+
+<p align="left">
+
+## Hi there, I'm Satyam Chaudhary 👋🏻 
+ 
+A passionate Full Stack Developer from India<br>
+<br>
+- 🌱 I’m currently learning **React JS, System Design**
+
+- 💬 Ask me about **React.Js, Node.js, Mongodb, Photoshop**
+
+- 📫 How to reach me **csatyam011@gmail.com**
+
+- ⚡ Fun fact **Wanderlust**
+
+<br>
+💻<a target="_blank" href="http://csatyam.me/"> Check out my portfolio</a>
+  <p>
+<br>
+
+
+
+  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=Satyam3976&show_icons=true&count_private=true&title_color=e6005c" alt="Satyam's github stats" />
+
+  <img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam3976&title_color=e6005c" />
+
+<br> 
+<br>
+<br>
+
+<!-- ## Get in touch:
+
+<a style="padding:10px" href="mailto: csatyam011@gmail.com">
+  <img style="width:40px"  src="resources/gmail.png" alt="Mail" />
+</a>
+
+<a style="padding:10px" href="https://www.linkedin.com/in/satyam3976/">
+  <img style="width:40px" src="resources/linkedin.png" alt="Linkedin" />
+</a>
+
+<a style="padding:10px" href="https://www.quora.com/profile/satyam3976">
+  <img style="width:40px" src="resources/quora.png" alt="Quora profile" />
+</a> -->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Satyam3976/count.svg" />
+</p>
+
+
+
+
+
+
+
+<!-- <h1 align="center">Hi 👋, I'm Satyam Chaudhary</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam3976" alt="satyam3976" /> </p>
@@ -17,4 +73,4 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/satyam3976" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="satyam3976" height="30" width="30" /></a>
-</p>
+</p> -->
